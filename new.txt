@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5658-ACB5
+
+ Directory of C:\Users\ASUS\Desktop\Newj
+
+04/19/2020  04:33 PM    <DIR>          .
+04/19/2020  04:33 PM    <DIR>          ..
+04/19/2020  04:33 PM                 0 new.txt
+04/19/2020  04:04 PM               416 Simple.class
+04/19/2020  04:03 PM               118 Simple.java
+               3 File(s)            534 bytes
+               2 Dir(s)  100,045,836,288 bytes free
